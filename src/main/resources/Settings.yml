@@ -1,0 +1,15 @@
+# Modes: Lobby, Arena
+Mode: Lobby
+Messages:
+  actionBar: 'Actualmente estas &cOCULTO'
+  already: '&a&lINFO &8|&cYa estas con nickeado'
+  removed: '&a&lINFO &8|&e Ya no estaras mas nickeado'
+  nicked: "&a&lINFO &8|&e Has obtenido una nueva identidad"
+# Game and Lobby modes requires mysql enabled
+MySQL:
+  enabled: false
+  hostname: 127.0.0.1
+  port: 3306
+  database: Nicks
+  username: root
+  password: snake123

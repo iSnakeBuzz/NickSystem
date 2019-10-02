@@ -1,0 +1,6 @@
+name: NickSystem
+version: ${project.version}
+main: com.isnakebuzz.nicksystem.Main
+commands:
+  nick:
+    description: xdd
